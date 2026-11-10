@@ -1,0 +1,13 @@
+[project]
+name = "python-proiect-final"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=1.5.9",
+    "openai>=3.46.0",
+    "pydantic>=2.14.3",
+    "pymupdf4llm>=2.1",
+    "python-dotenv>=1.2.4",
+    "rank-bm25>=0.2.2",
+    "sentence-transformers>=6.2.0",
+]
